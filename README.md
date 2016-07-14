@@ -5,7 +5,7 @@ Simple template to get started with React.js and Webpack using ES6. This will ge
 
 
 1. **Install** [Node](https://nodejs.org) if you haven't already.
-2. **Clone** this repository `https://github.com/mattburrell/react-and-webpack-starter.git`.
+2. **Clone** this repository `https://github.com/mattburrell/react-webpack-template.git`.
 3. Navigate to the directory you just created. `cd react-and-webpack-starter`
 4. **Install the node packages.** `npm install`
 5. **Run** `open index.html` - note that the webpage will display `Loading...`. This is because the `browser-bundle.js` hasn't been created yet.

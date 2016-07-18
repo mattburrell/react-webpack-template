@@ -8,10 +8,10 @@ module.exports = {
     loaders: [
       {
         loader: 'babel-loader'
-      },
-      query: {
+      }
+    ],
+    query: {
           presets: ['es2015', 'react']
       }
-    ]
   }
 };
